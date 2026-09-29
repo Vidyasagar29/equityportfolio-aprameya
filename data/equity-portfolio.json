@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-28T18:27:14.266Z",
+  "lastUpdated": "2026-09-29T16:47:11.855Z",
   "summary": {
     "totalInvestment": 22174210.83,
-    "currentValue": 22452329,
-    "pnl": 278118.17,
-    "pnlPct": 1.254242,
+    "currentValue": 22264126.25,
+    "pnl": 89915.42,
+    "pnlPct": 0.405495,
     "positions": 9
   },
   "holdings": [
@@ -12,91 +12,91 @@
       "symbol": "HDFCBANK",
       "quantity": 849,
       "buyPrice": 831,
-      "currentPrice": 719,
+      "currentPrice": 715.4,
       "invested": 705519,
-      "currentValue": 610431,
-      "pnl": -95088,
-      "pnlPct": -13.477738
+      "currentValue": 607374.6,
+      "pnl": -98144.4,
+      "pnlPct": -13.910951
     },
     {
       "symbol": "WIPRO",
       "quantity": 1946,
       "buyPrice": 220.82,
-      "currentPrice": 162.2,
+      "currentPrice": 157.79,
       "invested": 429715.72,
-      "currentValue": 315641.2,
-      "pnl": -114074.52,
-      "pnlPct": -26.546508
+      "currentValue": 307059.34,
+      "pnl": -122656.38,
+      "pnlPct": -28.54361
     },
     {
       "symbol": "KOTAKBANK",
       "quantity": 515,
       "buyPrice": 316.2,
-      "currentPrice": 402,
+      "currentPrice": 406.9,
       "invested": 162843,
-      "currentValue": 207030,
-      "pnl": 44187,
-      "pnlPct": 27.134725
+      "currentValue": 209553.5,
+      "pnl": 46710.5,
+      "pnlPct": 28.684377
     },
     {
       "symbol": "RELIANCE",
       "quantity": 1515,
       "buyPrice": 1350,
-      "currentPrice": 1198.9,
+      "currentPrice": 1188,
       "invested": 2045250,
-      "currentValue": 1816333.5,
-      "pnl": -228916.5,
-      "pnlPct": -11.192593
+      "currentValue": 1799820,
+      "pnl": -245430,
+      "pnlPct": -12
     },
     {
       "symbol": "NIPPON INDIA BANKNIFTY ETF",
       "quantity": 13864,
       "buyPrice": 516.67,
-      "currentPrice": 565.9,
+      "currentPrice": 565.44,
       "invested": 7163112.88,
-      "currentValue": 7845637.6,
-      "pnl": 682524.72,
-      "pnlPct": 9.528326
+      "currentValue": 7839260.16,
+      "pnl": 676147.28,
+      "pnlPct": 9.439294
     },
     {
       "symbol": "MOTILAL OSWAL M100ETF",
       "quantity": 2681,
       "buyPrice": 61.04,
-      "currentPrice": 64.99,
+      "currentPrice": 64.59,
       "invested": 163648.24,
-      "currentValue": 174238.19,
-      "pnl": 10589.95,
-      "pnlPct": 6.471166
+      "currentValue": 173165.79,
+      "pnl": 9517.55,
+      "pnlPct": 5.815858
     },
     {
       "symbol": "ICICI PRUD BSE Mcap Select ETF",
       "quantity": 121745,
       "buyPrice": 17.88,
-      "currentPrice": 19.14,
+      "currentPrice": 18.6,
       "invested": 2176800.6,
-      "currentValue": 2330199.3,
-      "pnl": 153398.7,
-      "pnlPct": 7.04698
+      "currentValue": 2264457,
+      "pnl": 87656.4,
+      "pnlPct": 4.026846
     },
     {
       "symbol": "Nippon India ETF IT",
       "quantity": 71129,
       "buyPrice": 40.26,
-      "currentPrice": 31.29,
+      "currentPrice": 30.84,
       "invested": 2863653.54,
-      "currentValue": 2225626.41,
-      "pnl": -638027.13,
-      "pnlPct": -22.280179
+      "currentValue": 2193618.36,
+      "pnl": -670035.18,
+      "pnlPct": -23.397914
     },
     {
       "symbol": "Nippon India ETF Nifty Midcap 150",
       "quantity": 30197,
       "buyPrice": 214.05,
-      "currentPrice": 229.4,
+      "currentPrice": 227.5,
       "invested": 6463667.85,
-      "currentValue": 6927191.8,
-      "pnl": 463523.95,
-      "pnlPct": 7.171222
+      "currentValue": 6869817.5,
+      "pnl": 406149.65,
+      "pnlPct": 6.283579
     }
   ]
 }
